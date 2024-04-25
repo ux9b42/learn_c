@@ -4,15 +4,15 @@ This list provides a diverse range of C projects, progressing from beginner-frie
 
 Beginner Level:
 
-1.  Temperature Converter: Convert temperatures between Celsius and Fahrenheit.
-2.  Simple Calculator: Implement basic arithmetic operations (+, -, *, /).
-3.  Prime Number Checker: Determine if a given number is prime.
-4.  Factorial Finder: Calculate the factorial of a non-negative integer.
-5.  Fibonacci Sequence Generator: Generate the Fibonacci sequence up to a certain number.
-6.  Palindrome Checker: Check if a string is a palindrome (reads the same backward as forward).
-7.  Number Guessing Game: Have the user guess a randomly generated number.
-8.  Rock, Paper, Scissors Game: Implement the classic game with user input.
-9.  Text-Based Adventure Game: Create a simple choose-your-own-adventure story.
+1.  Temperature Converter: Convert temperatures between Celsius and Fahrenheit.
+2.  Simple Calculator: Implement basic arithmetic operations (+, -, *, /).
+3.  Prime Number Checker: Determine if a given number is prime.
+4.  Factorial Finder: Calculate the factorial of a non-negative integer.
+5.  Fibonacci Sequence Generator: Generate the Fibonacci sequence up to a certain number.
+6.  Palindrome Checker: Check if a string is a palindrome (reads the same backward as forward).
+7.  Number Guessing Game: Have the user guess a randomly generated number.
+8.  Rock, Paper, Scissors Game: Implement the classic game with user input.
+9.  Text-Based Adventure Game: Create a simple choose-your-own-adventure story.
 10. Quiz Application: Develop a quiz with multiple-choice questions and scorekeeping.
 
 Intermediate Level:
